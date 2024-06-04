@@ -1,0 +1,28 @@
+/**
+ * IMPLEMENTAR CONTA DE BANCO
+ * 
+ * DUAS PESSOAS JUBILEU E A CREUSA
+ * CADA UM TEM UM DINHEIRO PARA DEPOSITAR
+ * ABRIR DUAS CONTAS CORRENTE E POUPANCA
+ * JUBILEU CONTA POUPANÇA 300
+ * CREUSA CONTA CORRENTE 500   -100 
+ * 
+ *
+
+    tipo da conta cc / cp
+    
+    abrirConta deve mudar estatus pra true 
+
+    fechar conta não pode ter dinheiro depositade e nem negativado
+
+    pra depositar a conta deve estar aberta
+
+    se abrir conta corrente ganha 50 reais
+    se abrir conta poupanca ganha 150 reais
+
+    mensalidade cc = 12  cp = 20
+
+*/
+
+
+

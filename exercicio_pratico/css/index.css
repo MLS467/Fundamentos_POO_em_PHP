@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    border: 0;
+    padding: 0;
+}
+
+.div {
+    display: flex;
+    background: rgb(99, 159, 99);
+    width: 20%;
+    height: auto;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    text-align: start;
+    justify-content: space-between;
+    flex-direction: column;
+    padding: 10px;
+}
